@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="151.578" height="8.599" viewBox="0 0 151.578 8.599">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="2" height="58.878" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(32.887 8.599) rotate(-90)">
+    <ellipse id="Ellipse_19" data-name="Ellipse 19" cx="4.299" cy="4.299" rx="4.299" ry="4.299" transform="translate(0 110.093)" fill="#fff"/>
+    <ellipse id="Ellipse_20" data-name="Ellipse 20" cx="3.868" cy="3.868" rx="3.868" ry="3.868" transform="translate(0.432 97.191)" fill="#fff"/>
+    <ellipse id="Ellipse_21" data-name="Ellipse 21" cx="3.518" cy="3.518" rx="3.518" ry="3.518" transform="translate(0.781 84.639)" fill="#fff"/>
+    <ellipse id="Ellipse_22" data-name="Ellipse 22" cx="2.799" cy="2.799" rx="2.799" ry="2.799" transform="translate(1.5 72.806)" fill="#fff"/>
+    <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="2.045" cy="2.045" rx="2.045" ry="2.045" transform="translate(2.254 61.727)" fill="#fff"/>
+    <ellipse id="Ellipse_24" data-name="Ellipse 24" cx="1.341" cy="1.341" rx="1.341" ry="1.341" transform="translate(2.958 51.352)" fill="#fff"/>
+    <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="1.14" cy="1.14" rx="1.14" ry="1.14" transform="translate(3.159 41.178)" fill="#fff"/>
+    <ellipse id="Ellipse_26" data-name="Ellipse 26" cx="0.763" cy="0.763" rx="0.763" ry="0.763" transform="translate(3.537 33.276)" fill="#fff"/>
+    <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 27.113)" fill="#fff"/>
+    <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(3.86 -32.887)" clip-path="url(#clip-path)">
+      <g transform="translate(-3.86 -22.113)">
+        <ellipse id="Ellipse_30" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 -17.113)">
+        <ellipse id="Ellipse_30-2" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 -12.113)">
+        <ellipse id="Ellipse_30-3" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 -7.113)">
+        <ellipse id="Ellipse_30-4" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 -2.113)">
+        <ellipse id="Ellipse_30-5" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 2.887)">
+        <ellipse id="Ellipse_30-6" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 7.887)">
+        <ellipse id="Ellipse_30-7" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 12.887)">
+        <ellipse id="Ellipse_30-8" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 17.887)">
+        <ellipse id="Ellipse_30-9" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 22.887)">
+        <ellipse id="Ellipse_30-10" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 27.887)">
+        <ellipse id="Ellipse_30-11" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+      <g transform="translate(-3.86 32.887)">
+        <ellipse id="Ellipse_30-12" data-name="Ellipse 30" cx="0.439" cy="0.439" rx="0.439" ry="0.439" transform="translate(3.86 22.113)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
